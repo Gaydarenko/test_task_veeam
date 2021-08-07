@@ -1,0 +1,5 @@
+C:\Tests\Source\kernel32.dll md5 5a4cd95500481cd603062542f0cfeb3a
+C:\Tests\Source\server.log md5 a0e438dfddaf13d838700c4ab7dcf9db
+C:\Tests\Source\Test_file_1.txt md5 b8ab309a6b9a3f448092a136afa8fa2
+C:\Tests\Source\Test_file_2.txt sha1 811d677fd0276e95f4d8278fcda79bf19df58ef0
+C:\Tests\Source\Test_file_3.txt sha1 811d677fd0276e95f4d8278fcda79bf19df58ef0
