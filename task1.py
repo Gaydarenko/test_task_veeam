@@ -1,3 +1,5 @@
+"""This is the test task №1"""
+
 import xml.dom.minidom as minidom
 import shutil
 import os
