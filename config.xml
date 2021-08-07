@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="C:\Tests\Source"
+            destination_path="C:\Tests\Destination"
+            file_name="Test_file_1.txt"
+    />
+    <file
+            source_path="C:\Tests\Destination"
+            destination_path="C:\Tests\Destination"
+            file_name="Test_file_2.txt"
+    />
+</config>
