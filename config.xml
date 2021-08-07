@@ -5,8 +5,18 @@
             file_name="Test_file_1.txt"
     />
     <file
-            source_path="C:\Tests\Destination"
+            source_path="C:\Tests\Source"
             destination_path="C:\Tests\Destination"
             file_name="Test_file_2.txt"
+    />
+    <file
+            source_path="C:\Windows\system32"
+            destination_path="C:\Program files"
+            file_name="kernel32.dll"
+    />
+    <file
+            source_path="C:\Tests\Source"
+            destination_path="C:\Tests\Destination"
+            file_name="server.log"
     />
 </config>
