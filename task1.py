@@ -7,7 +7,7 @@ import os
 
 def task1(config: str):
     """
-    Parse config file
+    Parse config file.
     :param config: string with file path
     :return: None
     """
@@ -20,7 +20,7 @@ def task1(config: str):
 
 def copy_file(attr: dict):
     """
-    Copy file
+    Copy file.
     :param attr: dictionary with file attributes (source, dest, name)
     :return: None
     """

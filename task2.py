@@ -6,9 +6,9 @@ import os
 
 def task2(file: str):
     """
-    Check files integrity
-    :param file:
-    :return:
+    Check files integrity.
+    :param file: sting with filename
+    :return: None
     """
     list_of_dict = read_file(file)
     for item in list_of_dict.items():
@@ -19,7 +19,7 @@ def task2(file: str):
 
 def read_file(filename: str) -> dict:
     """
-    Retrieving data from file
+    Retrieving data from file.
     :param filename: full path to the file as string
     :return: dictionary with files information
     """
@@ -33,7 +33,7 @@ def read_file(filename: str) -> dict:
 
 def check_hash(item: tuple):
     """
-    Check file integrity
+    Check file integrity.
     :param item: tuple with full path to the file as string, hash algorithm and hash
     :return: string with result hash check
     """
@@ -48,8 +48,8 @@ def check_hash(item: tuple):
 
 def output_message(results: dict):
     """
-    Output message for user
-    :param results:
+    Output message for user.
+    :param results: dictionary with results
     :return: None
     """
     for key in results:
